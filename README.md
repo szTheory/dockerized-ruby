@@ -1,1 +1,1 @@
-Dockerized Ruby on Alpine
+Dockerized Ruby on Alpine, a lightweight Linux
